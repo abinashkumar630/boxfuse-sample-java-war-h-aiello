@@ -67,11 +67,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexusRepo</id>
-            <url>http://52.198.43.110:8081/repository/snapshot/</url>
+            <url>http://54.64.116.199:8081/repository/snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>nexusRepo</id>
-            <url>http://52.198.43.110:8081/repository/release/</url>
+            <url>http://54.64.116.199:8081/repository/releases/</url>
         </repository>
     </distributionManagement>
 </project>
